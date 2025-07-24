@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "input_documents": [
+      "south_france_guide_1.pdf",
+      "south_france_guide_2.pdf",
+      "south_france_guide_3.pdf",
+      "south_france_guide_4.pdf",
+      "south_france_guide_5.pdf",
+      "south_france_guide_6.pdf",
+      "south_france_guide_7.pdf"
+    ],
+    "persona": "Travel Planner",
+    "job_to_be_done": "Plan a 4-day trip for 10 college friends to South of France",
+    "total_sections_found": 35,
+    "processing_timestamp": "2025-07-20 07:07:16"
+  },
+  "extracted_sections": [
+    {
+      "document": "south_france_guide_1.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 1,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_2.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 2,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_3.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 3,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_4.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 4,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_5.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 5,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_6.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 6,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_7.pdf",
+      "section_title": "Accommodation Options in South France",
+      "importance_rank": 7,
+      "page_number": 1,
+      "relevance_score": 0.95
+    },
+    {
+      "document": "south_france_guide_1.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 8,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_2.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 9,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_3.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 10,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_4.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 11,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_5.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 12,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_6.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 13,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_7.pdf",
+      "section_title": "Budget Planning for Groups",
+      "importance_rank": 14,
+      "page_number": 5,
+      "relevance_score": 0.92
+    },
+    {
+      "document": "south_france_guide_1.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 15,
+      "page_number": 7,
+      "relevance_score": 0.89
+    },
+    {
+      "document": "south_france_guide_2.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 16,
+      "page_number": 7,
+      "relevance_score": 0.89
+    },
+    {
+      "document": "south_france_guide_3.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 17,
+      "page_number": 7,
+      "relevance_score": 0.89
+    },
+    {
+      "document": "south_france_guide_4.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 18,
+      "page_number": 7,
+      "relevance_score": 0.89
+    },
+    {
+      "document": "south_france_guide_5.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 19,
+      "page_number": 7,
+      "relevance_score": 0.89
+    },
+    {
+      "document": "south_france_guide_6.pdf",
+      "section_title": "4-Day Itinerary Suggestions",
+      "importance_rank": 20,
+      "page_number": 7,
+      "relevance_score": 0.89
+    }
+  ],
+  "subsection_analysis": []
+}

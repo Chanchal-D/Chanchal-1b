@@ -1,0 +1,162 @@
+{
+  "metadata": {
+    "input_documents": [
+      "vegetarian_cooking_basics.pdf",
+      "buffet_planning_guide.pdf",
+      "corporate_catering.pdf",
+      "plant_based_proteins.pdf",
+      "seasonal_vegetables.pdf",
+      "international_vegetarian.pdf",
+      "food_safety_standards.pdf",
+      "dietary_restrictions.pdf",
+      "quantity_calculations.pdf"
+    ],
+    "persona": "Food Contractor",
+    "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
+    "total_sections_found": 45,
+    "processing_timestamp": "2025-07-20 07:07:17"
+  },
+  "extracted_sections": [
+    {
+      "document": "vegetarian_cooking_basics.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 1,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "buffet_planning_guide.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 2,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "corporate_catering.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 3,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "plant_based_proteins.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 4,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "seasonal_vegetables.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 5,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "international_vegetarian.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 6,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "food_safety_standards.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 7,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "dietary_restrictions.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 8,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "quantity_calculations.pdf",
+      "section_title": "Vegetarian Buffet Menu Planning",
+      "importance_rank": 9,
+      "page_number": 1,
+      "relevance_score": 0.97
+    },
+    {
+      "document": "vegetarian_cooking_basics.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 10,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "buffet_planning_guide.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 11,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "corporate_catering.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 12,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "plant_based_proteins.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 13,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "seasonal_vegetables.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 14,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "international_vegetarian.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 15,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "food_safety_standards.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 16,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "dietary_restrictions.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 17,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "quantity_calculations.pdf",
+      "section_title": "Corporate Catering Guidelines",
+      "importance_rank": 18,
+      "page_number": 3,
+      "relevance_score": 0.93
+    },
+    {
+      "document": "vegetarian_cooking_basics.pdf",
+      "section_title": "Quantity Calculations for Groups",
+      "importance_rank": 19,
+      "page_number": 5,
+      "relevance_score": 0.9
+    },
+    {
+      "document": "buffet_planning_guide.pdf",
+      "section_title": "Quantity Calculations for Groups",
+      "importance_rank": 20,
+      "page_number": 5,
+      "relevance_score": 0.9
+    }
+  ],
+  "subsection_analysis": []
+}

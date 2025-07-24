@@ -1,0 +1,29 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_003",
+    "test_case_name": "hr_acrobat_forms_management"
+  },
+  "documents": [
+    {"filename": "acrobat_forms_basics.pdf", "title": "Adobe Acrobat Forms - Getting Started"},
+    {"filename": "fillable_forms_creation.pdf", "title": "Creating Fillable PDF Forms"},
+    {"filename": "form_fields_guide.pdf", "title": "Form Fields and Properties"},
+    {"filename": "digital_signatures.pdf", "title": "Digital Signatures in Forms"},
+    {"filename": "form_distribution.pdf", "title": "Distributing and Collecting Forms"},
+    {"filename": "form_data_analysis.pdf", "title": "Analyzing Form Data"},
+    {"filename": "compliance_forms.pdf", "title": "Compliance and Legal Requirements"},
+    {"filename": "mobile_forms.pdf", "title": "Mobile-Friendly Form Design"},
+    {"filename": "form_automation.pdf", "title": "Automating Form Workflows"},
+    {"filename": "security_forms.pdf", "title": "Form Security Best Practices"},
+    {"filename": "onboarding_templates.pdf", "title": "HR Onboarding Form Templates"},
+    {"filename": "employee_evaluation.pdf", "title": "Employee Evaluation Forms"},
+    {"filename": "training_forms.pdf", "title": "Training and Certification Forms"},
+    {"filename": "benefits_enrollment.pdf", "title": "Benefits Enrollment Forms"},
+    {"filename": "performance_review.pdf", "title": "Performance Review Documentation"}
+  ],
+  "persona": {
+    "role": "HR Professional"
+  },
+  "job_to_be_done": {
+    "task": "Create and manage fillable forms for onboarding and compliance"
+  }
+}

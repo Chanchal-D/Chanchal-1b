@@ -1,0 +1,23 @@
+{
+  "challenge_info": {
+    "challenge_id": "round_1b_001",
+    "test_case_name": "vegetarian_corporate_catering"
+  },
+  "documents": [
+    {"filename": "vegetarian_cooking_basics.pdf", "title": "Vegetarian Cooking Fundamentals"},
+    {"filename": "buffet_planning_guide.pdf", "title": "Buffet Style Service Planning"},
+    {"filename": "corporate_catering.pdf", "title": "Corporate Event Catering"},
+    {"filename": "plant_based_proteins.pdf", "title": "Plant-Based Protein Sources"},
+    {"filename": "seasonal_vegetables.pdf", "title": "Seasonal Vegetable Preparation"},
+    {"filename": "international_vegetarian.pdf", "title": "International Vegetarian Cuisines"},
+    {"filename": "food_safety_standards.pdf", "title": "Food Safety and Hygiene Standards"},
+    {"filename": "dietary_restrictions.pdf", "title": "Managing Dietary Restrictions"},
+    {"filename": "quantity_calculations.pdf", "title": "Food Quantity Planning for Groups"}
+  ],
+  "persona": {
+    "role": "Food Contractor"
+  },
+  "job_to_be_done": {
+    "task": "Prepare vegetarian buffet-style dinner menu for corporate gathering"
+  }
+}
