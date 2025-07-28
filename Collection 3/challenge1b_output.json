@@ -1,162 +1,290 @@
 {
   "metadata": {
     "input_documents": [
-      "vegetarian_cooking_basics.pdf",
-      "buffet_planning_guide.pdf",
-      "corporate_catering.pdf",
-      "plant_based_proteins.pdf",
-      "seasonal_vegetables.pdf",
-      "international_vegetarian.pdf",
-      "food_safety_standards.pdf",
-      "dietary_restrictions.pdf",
-      "quantity_calculations.pdf"
+      "Breakfast Ideas.pdf",
+      "Dinner Ideas - Mains_1.pdf",
+      "Dinner Ideas - Mains_2.pdf",
+      "Dinner Ideas - Mains_3.pdf",
+      "Dinner Ideas - Sides_1.pdf",
+      "Dinner Ideas - Sides_2.pdf",
+      "Dinner Ideas - Sides_3.pdf",
+      "Dinner Ideas - Sides_4.pdf",
+      "Lunch Ideas.pdf"
     ],
     "persona": "Food Contractor",
-    "job_to_be_done": "Prepare vegetarian buffet-style dinner menu for corporate gathering",
-    "total_sections_found": 45,
-    "processing_timestamp": "2025-07-20 07:07:17"
+    "job_to_be_done": "Prepare a vegetarian buffet-style dinner menu for a corporate gathering, including gluten-free items.",
+    "total_sections_found": 607,
+    "processing_timestamp": "2025-07-28T23:47:38.839545",
+    "challenge_id": "round_1b_001",
+    "processing_time_seconds": 15.0
   },
   "extracted_sections": [
     {
-      "document": "vegetarian_cooking_basics.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 1,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 2,
+      "relevance_score": 0.5923
     },
     {
-      "document": "buffet_planning_guide.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 2,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 3,
+      "relevance_score": 0.5923
     },
     {
-      "document": "corporate_catering.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 3,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 4,
+      "relevance_score": 0.5923
     },
     {
-      "document": "plant_based_proteins.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 4,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 5,
+      "relevance_score": 0.5923
     },
     {
-      "document": "seasonal_vegetables.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 5,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 5,
+      "relevance_score": 0.5923
     },
     {
-      "document": "international_vegetarian.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 6,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 6,
+      "relevance_score": 0.5923
     },
     {
-      "document": "food_safety_standards.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 7,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 7,
+      "relevance_score": 0.5923
     },
     {
-      "document": "dietary_restrictions.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 8,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 8,
+      "relevance_score": 0.5923
     },
     {
-      "document": "quantity_calculations.pdf",
-      "section_title": "Vegetarian Buffet Menu Planning",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 9,
-      "page_number": 1,
-      "relevance_score": 0.97
+      "page_number": 9,
+      "relevance_score": 0.5923
     },
     {
-      "document": "vegetarian_cooking_basics.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 10,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 11,
+      "relevance_score": 0.5923
     },
     {
-      "document": "buffet_planning_guide.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Breakfast Ideas.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 11,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 15,
+      "relevance_score": 0.5923
     },
     {
-      "document": "corporate_catering.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 12,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 2,
+      "relevance_score": 0.5923
     },
     {
-      "document": "plant_based_proteins.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 13,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 2,
+      "relevance_score": 0.5923
     },
     {
-      "document": "seasonal_vegetables.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 14,
       "page_number": 3,
-      "relevance_score": 0.93
+      "relevance_score": 0.5923
     },
     {
-      "document": "international_vegetarian.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 15,
       "page_number": 3,
-      "relevance_score": 0.93
+      "relevance_score": 0.5923
     },
     {
-      "document": "food_safety_standards.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 16,
       "page_number": 3,
-      "relevance_score": 0.93
+      "relevance_score": 0.5923
     },
     {
-      "document": "dietary_restrictions.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 17,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 4,
+      "relevance_score": 0.5923
     },
     {
-      "document": "quantity_calculations.pdf",
-      "section_title": "Corporate Catering Guidelines",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 18,
-      "page_number": 3,
-      "relevance_score": 0.93
+      "page_number": 4,
+      "relevance_score": 0.5923
     },
     {
-      "document": "vegetarian_cooking_basics.pdf",
-      "section_title": "Quantity Calculations for Groups",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
       "importance_rank": 19,
-      "page_number": 5,
-      "relevance_score": 0.9
+      "page_number": 4,
+      "relevance_score": 0.5923
     },
     {
-      "document": "buffet_planning_guide.pdf",
-      "section_title": "Quantity Calculations for Groups",
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
       "importance_rank": 20,
       "page_number": 5,
-      "relevance_score": 0.9
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 21,
+      "page_number": 5,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 22,
+      "page_number": 6,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 23,
+      "page_number": 8,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Ingredients:",
+      "importance_rank": 24,
+      "page_number": 9,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "section_title": "Instructions:",
+      "importance_rank": 25,
+      "page_number": 9,
+      "relevance_score": 0.5923
     }
   ],
-  "subsection_analysis": []
+  "subsection_analysis": [
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a bowl, whisk together flour, sugar, baking powder, baking soda, and salt. In another bowl, combine buttermilk, egg, melted butter, and vanilla extract. Pour the wet ingredients into the dry ingredients and stir until just combined. Heat a non-stick skillet over medium heat and lightly grease it. Pour 1/4 cup of batter onto the skillet for each pancake. Cook until bubbles form on the surface, then flip and cook until golden brown. Serve with syrup and your favorite toppings.",
+      "page_number": 2,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "2 large eggs 1/4 cup shredded cheese 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper 1/4 cup diced onion 1 large flour tortilla Salsa for serving",
+      "page_number": 3,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "1 cup Greek yogurt 1/2 cup granola 1/2 cup fresh berries Honey for drizzling",
+      "page_number": 4,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a bowl, whisk together chia seeds, almond milk, honey or maple syrup, and vanilla extract. Cover and refrigerate for at least 4 hours or overnight. Stir well before serving and top with your favorite toppings.",
+      "page_number": 5,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "1 large flour tortilla 2 large eggs 1/4 cup shredded cheese 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper Salsa for serving",
+      "page_number": 5,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "2 large eggs 1/4 cup shredded cheese 1/4 cup cooked sausage or bacon 1/4 cup diced bell pepper 1/4 cup diced onions 2 small flour tortillas Salsa for serving",
+      "page_number": 6,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Preheat oven to 350°F (175°C). In a bowl, mix oats, honey or maple syrup, peanut butter, nuts, dried fruit, and vanilla extract. Press the mixture into a greased baking dish. Bake for 20-25 minutes or until golden brown. Let cool before cutting into bars.",
+      "page_number": 7,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Preheat oven to 375°F (190°C). In a bowl, mix flour, sugar, baking powder, and salt. In another bowl, combine milk, vegetable oil, egg, and vanilla extract. Pour the wet ingredients into the dry ingredients and stir until just combined. Fold in the berries. Divide the batter evenly among a greased muﬃn tin. Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean. Let cool before serving.",
+      "page_number": 8,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Preheat oven to 350°F (175°C). In a bowl, whisk together eggs, milk, salt, and pepper. Stir in cheese, sausage or bacon, bell pepper, and onion. Pour the mixture into a greased baking dish. Bake for 30-35 minutes or until the eggs are set. Let cool slightly before serving.",
+      "page_number": 9,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "Preheat oven to 350°F (175°C). In a bowl, whisk together eggs, milk, salt, and pepper. Stir in cheese, bell pepper, onion, and sausage or bacon. Heat olive oil in a skillet over medium heat. Pour the egg mixture into the skillet and cook until the edges are set. Transfer the skillet to the oven and bake for 15-20 minutes or until the eggs are set. Let cool slightly before slicing and serving.",
+      "page_number": 11,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Breakfast Ideas.pdf",
+      "refined_text": "In a food processor, combine dates, mixed nuts, dried fruit, and honey. Process until the mixture comes together. Press the mixture into a greased baking dish. Refrigerate for at least 1 hour before cutting into bars. Store in an airtight container.",
+      "page_number": 15,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "1 pound beef sirloin, thinly sliced 1 small onion, diced 2 cloves garlic, minced 1 cup mushrooms, sliced 1 cup beef broth 1 cup sour cream 2 tablespoons flour 2 tablespoons butter 1 teaspoon paprika Salt and pepper to taste Egg noodles or rice for serving",
+      "page_number": 2,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "Preheat oven to 375°F (190°C). Season chicken breasts with salt and pepper. Dredge chicken in flour, dip in beaten eggs, and coat with a mixture of breadcrumbs and grated Parmesan cheese. Heat olive oil in a skillet over medium heat. Cook chicken until golden brown on both sides. Place chicken in a baking dish, top with marinara sauce and shredded mozzarella cheese. Bake for 20-25 minutes until cheese is melted and bubbly. Serve warm.",
+      "page_number": 2,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "1 pound ground beef 1 small onion, diced 2 cloves garlic, minced 1 carrot, grated 1 celery stalk, diced 1 can (28 ounces) crushed tomatoes 1/4 cup tomato paste 1/2 cup red wine (optional) 1 teaspoon dried oregano 1 teaspoon dried basil Salt and pepper to taste Spaghetti for serving Grated Parmesan cheese for garnish",
+      "page_number": 3,
+      "relevance_score": 0.5923
+    },
+    {
+      "document": "Dinner Ideas - Mains_1.pdf",
+      "refined_text": "In a large skillet, cook ground beef over medium heat until browned. Add diced onion, minced garlic, grated carrot, and diced celery, sauté until vegetables are tender. Stir in crushed tomatoes, tomato paste, red wine (if using), oregano, basil, salt, and pepper. Simmer for 30 minutes, stirring occasionally. Cook spaghetti according to package instructions. Serve Bolognese sauce over spaghetti, garnished with grated Parmesan cheese.",
+      "page_number": 3,
+      "relevance_score": 0.5923
+    }
+  ]
 }
